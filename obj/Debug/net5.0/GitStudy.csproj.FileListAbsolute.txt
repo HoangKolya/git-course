@@ -1,0 +1,17 @@
+E:\GitStudy\GitStudy\bin\Debug\net5.0\GitStudy.exe
+E:\GitStudy\GitStudy\bin\Debug\net5.0\GitStudy.deps.json
+E:\GitStudy\GitStudy\bin\Debug\net5.0\GitStudy.runtimeconfig.json
+E:\GitStudy\GitStudy\bin\Debug\net5.0\GitStudy.runtimeconfig.dev.json
+E:\GitStudy\GitStudy\bin\Debug\net5.0\GitStudy.dll
+E:\GitStudy\GitStudy\bin\Debug\net5.0\ref\GitStudy.dll
+E:\GitStudy\GitStudy\bin\Debug\net5.0\GitStudy.pdb
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.csproj.AssemblyReference.cache
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.AssemblyInfoInputs.cache
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.AssemblyInfo.cs
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.csproj.CoreCompileInputs.cache
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.dll
+E:\GitStudy\GitStudy\obj\Debug\net5.0\ref\GitStudy.dll
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.pdb
+E:\GitStudy\GitStudy\obj\Debug\net5.0\GitStudy.genruntimeconfig.cache
+E:\GitStudy\GitStudy\bin\Debug\net5.0\gits.cs
