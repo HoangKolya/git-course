@@ -10,6 +10,7 @@ namespace GitStudy
     {
         int a = 2;
         int b = 102;
+        int ad = 20;
         
     }
 }
