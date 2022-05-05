@@ -1,12 +1,1 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GitStudy
-{
-    class readme
-    {
-    }
-}
+﻿Git and GitHub course of true zxc ghoul on travell cf yeah
